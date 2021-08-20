@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.center{
+display: flex;
+justify-content: center;
+}
+
+.borderBottom{
+  border-bottom-style: dashed;
+}
+
+.favprog{
+  display: flex;
+  justify-content: space-between;
+  border-bottom-style: dashed;
+
+}
+
+.deletebtn{
+  display: flex;
+  justify-content: space-between;
+}
+
+.paddingleft{
+  padding-left:unset !important
+}
